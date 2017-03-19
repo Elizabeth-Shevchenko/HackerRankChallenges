@@ -1,0 +1,8 @@
+# Ignore files build by Visual Studio
+
+*.vcproj.*
+*.vcxproj.*
+[Dd]ebug/
+[Rr]elease
+x64/
+.vs/
